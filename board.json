@@ -6,10 +6,10 @@
 			"Fast alerting and visibility into failures",
 			"Log the actions of your applications for traceability",
 			"Centralize the logs for access",
-			"Plan our work in short reviewable bursts",
-      "How should we measure the success of our UX features?",
+			"How can we measure the success of our UX features?",
 			"How do we measure developer productivity?",
-			"I think we can do better than we currently do!"
+			"Plan your work in short reviewable bursts",
+			"I think we can do better than we currently do on all fronts!"
 		]
 	}, {
 		"value": "Mistakes / Failure",
@@ -31,7 +31,7 @@
 			"Welcome criticism but defend your position when appropriate",
 			"Think about reviews as a process for better code delivery",
 			"Learn from your reviewers",
-			"Keep review sets small to ease the required effort"
+			"Keep review sets small to attract multiple reviews"
 		]
 	}]
 }, {
@@ -40,28 +40,30 @@
 		"value": "Dedicated Practise",
 		"notes": [
 			"Expose yourself to new concepts and ideas",
-      "Challenge yourself to get better at what you do",
-      "If it’s not hard, if it doesn’t suck, you probably won’t learn much from it",
-      "Get out of your comfort zone",
-      "Review results and repeat the practice"
+			"Challenge yourself to get better at what you do",
+			"If it’s not hard, if it doesn’t suck, you probably won’t learn much from it",
+			"Get out of your comfort zone",
+			"Review results and repeat the practice"
 		]
 	}, {
 		"value": "Keep Learning",
 		"notes": [
-			"Language",
-			"Framework",
-			"Tech stacks",
-			"Ops processes",
-      "All the above will help you think differently about problems / solutions",
+			"New languages",
+			"New frameworks",
+			"New tech stacks",
+			"New ops processes",
+      "Dive into other teams / codebases at work",
+			"All the above will help you think differently about crafting solutions",
 			"Take responsibility for your own learning!"
 		]
 	}, {
 		"value": "Take The Time",
 		"notes": [
 			"Work on side projects",
-			"Force yourself to take time",
-			"Respect others",
-			"Try to avoid taking other peoples time",
+			"Force yourself to take time to develop your skills",
+			"Try to avoid taking up too much of other peoples time",
+      "Ask for help if you've been stuck on something for too long",
+      "Determine (and stick to) an acceptible time period you can be stuck before asking for help",
 			"Take your 20% time!"
 		]
 	}]
@@ -70,18 +72,19 @@
 	"topics": [{
 		"value": "Seek Help",
 		"notes": [
-			"Find a mentor",
+			"Find a mentor (virtual / external)",
 			"Learn from co-workers",
 			"Go on training courses",
 			"Go to conferences",
 			"Spend your allocated budget!"
 		]
 	}, {
-		"value": "Postmortems",
+		"value": "Post-Mortems",
 		"notes": [
-			"Find and read about other peoples experiences",
+			"Find and read about other peoples' experiences",
 			"Learn from others mistakes",
-			"Conduct our own on work we've done!"
+			"Learn from the lessons of the past",
+      "Conduct our own on work we've done!"
 		]
 	}, {
 		"value": "Share",
@@ -90,7 +93,7 @@
 			"Find out who is interested in what",
 			"Internal discussions / journal clubs",
 			"Go to local Meetups",
-			"Create a culture of sharing ideas!"
+			"Create a culture of discussing and sharing ideas!"
 		]
 	}]
 }, {
@@ -99,43 +102,36 @@
 		"value": "Co-Workers",
 		"notes": [
 			"Solicit feedback from co-workers",
-			"Get each employee lists three to five co-workers they would like peer feedback from",
-			"Those co-workers then provide feedback for the individual in three categories, 1. Start, 2. Stop, and 3. Continue",
-			"Each box should focus on behaviors that match the title",
-			"Boxes aren't mandatory, can just leave a box blank",
-			"Do this every 3 / 6 months?"
+			"Each employee lists three to five co-workers they would like peer feedback from",
+			"Each co-worker writes down any behaviours they want you to 1. start, 2. stop and 3. continue doing",
+			"The co-worker should focus on behaviors that match the title, e.g. Start: Offering to make coffee each morning",
+			"Categories aren't mandatory, just leave it off if it doesn't apply",
+			"Do this every 3 / 6 months internally",
+			"Need to anonymize feedback between the worker and the co-workers feedback (web app?)"
 		]
-	},{
+	}, {
 		"value": "Individual",
 		"notes": [
 			"Set personal goals",
 			"Lodge this with your supervisor / person you trust",
-      "Create a review cycle to see how well you are doing",
-      "Intervene based on review if needed",
-      "Follow up on this the offical review"
+			"Create a review cycle to see how well you are doing",
+			"If needed - change your behaviour / goals based on self review",
+			"Follow up on this in the offical review"
 		]
-	},{
+	}, {
 		"value": "Self Assessment",
 		"notes": [
-			"State how you've met / failed to meet your peronal goals",
+			"State how you have met / failed to meet your personal goals",
+			"Show how you have fulfilled your work projects",
 			"Try not to be over confident",
-      "Try not to be dismissive of your success",
-      "Acknowledge the help you've received",
-      "This is useful when married to the feedback from co-workers and supervisor in the offical review"
+			"Try not to be dismissive of your success",
+			"Acknowledge the help you've received",
+			"This is can be useful when matched to co-workers and supervisor feedback"
 		]
 	}]
 }, {
 	"name": "You",
 	"topics": [{
-		"value": "Body",
-		"notes": [
-			"Excerise, even just a little walk counts",
-			"Sleep well",
-			"Eat well",
-			"See points on taking time",
-			"It's hard to think (and write code) if you aren't well"
-		]
-	}, {
 		"value": "Read",
 		"notes": [
 			"Books",
@@ -143,7 +139,7 @@
 			"Aggregator sites",
 			"API docs of your current language",
 			"Source code of projects you like",
-			"There should be an internal work library!"
+			"We should have an internal work library full of good books!"
 		]
 	}, {
 		"value": "Work Conditions",
@@ -153,7 +149,16 @@
 			"Try and work on one hard problem at a time",
 			"Keep context switching down to a minimum",
 			"Try to get in the zone for a few hours per day",
-			"Respect others and trust each other"
+			"Respect and trust your co-workers"
+		]
+	}, {
+		"value": "Body",
+		"notes": [
+			"Excerise, even just a little walk counts",
+			"Sleep well",
+			"Eat well",
+			"See points on taking time",
+			"It's hard to think (and write code) if you aren't well"
 		]
 	}]
 }]
