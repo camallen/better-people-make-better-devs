@@ -1,467 +1,159 @@
-[
-    {
-        "name":"category1",
-        "questions":[
-            {
-                "value":100,
-               "question":"Question 1 in category 1 for 100 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":200,
-               "question":"Question 2 in category 1 for 200 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":300,
-               "question":"Question 3 in category 1 for 300 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":400,
-               "question":"Question 4 in category 1 for 400 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name":"category2",
-        "questions":[
-            {
-                "value":100,
-               "question":"Question 1 in category 2 for 100 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":200,
-               "question":"Question 2 in category 2 for 200 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":300,
-               "question":"Question 3 in category 2 for 300 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":400,
-               "question":"Question 4 in category 2 for 400 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name":"category3",
-        "questions":[
-            {
-                "value":100,
-               "question":"Question 1 in category 3 for 100 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":200,
-               "question":"Question 2 in category 3 for 200 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":300,
-               "question":"Question 3 in category 3 for 300 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":400,
-               "question":"Question 4 in category 3 for 400 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name":"category4",
-        "questions":[
-            {
-                "value":100,
-               "question":"Question 1 in category 4 for 100 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":200,
-               "question":"Question 2 in category 4 for 200 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":300,
-               "question":"Question 3 in category 4 for 300 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":400,
-               "question":"Question 4 in category 4 for 400 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name":"category5",
-        "questions":[
-            {
-                "value":100,
-               "question":"Question 1 in category 4 for 100 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":200,
-               "question":"Question 2 in category 4 for 200 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":300,
-               "question":"Question 3 in category 4 for 300 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            },
-            {
-                "value":400,
-               "question":"Question 4 in category 4 for 400 points",
-                "answers":[
-                    {
-                        "text":"A",
-                        "correct":true
-                    },
-                    {
-                        "text":"B",
-                        "correct":false
-                    },
-                    {
-                        "text":"C",
-                        "correct":false
-                    },
-                    {
-                        "text":"D",
-                        "correct":false
-                    }
-                ]
-            }
-        ]
-    }
-]
+[{
+	"name": "Code",
+	"topics": [{
+		"value": "Alert, Log, Measure & Plan",
+		"notes": [
+			"Fast alerting and visibility into failures",
+			"Log the actions of your applications for traceability",
+			"Centralize the logs for access",
+			"Plan our work in short reviewable bursts",
+      "How should we measure the success of our UX features?",
+			"How do we measure developer productivity?",
+			"I think we can do better than we currently do!"
+		]
+	}, {
+		"value": "Mistakes / Failure",
+		"notes": [
+			"Don't hide it",
+			"Avoid the blame game",
+			"Acknowledge, own it and take responsibility",
+			"See it as an opportunity to learn",
+			"Take the time to understand what was wrong",
+			"Use this knowledge to craft a new solution",
+			"Share any knoweldge you have gained!"
+		]
+	}, {
+		"value": "Reviews",
+		"notes": [
+			"Everyone writes buggy / bad code",
+			"Accept point 1",
+			"Detach yourself from your code, it's not you",
+			"Welcome criticism but defend your position when appropriate",
+			"Think about reviews as a process for better code delivery",
+			"Learn from your reviewers",
+			"Keep review sets small to ease the required effort"
+		]
+	}]
+}, {
+	"name": "Practise",
+	"topics": [{
+		"value": "Dedicated Practise",
+		"notes": [
+			"Expose yourself to new concepts and ideas",
+      "Challenge yourself to get better at what you do",
+      "If it’s not hard, if it doesn’t suck, you probably won’t learn much from it",
+      "Get out of your comfort zone",
+      "Review results and repeat the practice"
+		]
+	}, {
+		"value": "Keep Learning",
+		"notes": [
+			"Language",
+			"Framework",
+			"Tech stacks",
+			"Ops processes",
+      "All the above will help you think differently about problems / solutions",
+			"Take responsibility for your own learning!"
+		]
+	}, {
+		"value": "Take The Time",
+		"notes": [
+			"Work on side projects",
+			"Force yourself to take time",
+			"Respect others",
+			"Try to avoid taking other peoples time",
+			"Take your 20% time!"
+		]
+	}]
+}, {
+	"name": "Collaborate",
+	"topics": [{
+		"value": "Seek Help",
+		"notes": [
+			"Find a mentor",
+			"Learn from co-workers",
+			"Go on training courses",
+			"Go to conferences",
+			"Spend your allocated budget!"
+		]
+	}, {
+		"value": "Postmortems",
+		"notes": [
+			"Find and read about other peoples experiences",
+			"Learn from others mistakes",
+			"Conduct our own on work we've done!"
+		]
+	}, {
+		"value": "Share",
+		"notes": [
+			"Links of articles / sites that interest you",
+			"Find out who is interested in what",
+			"Internal discussions / journal clubs",
+			"Go to local Meetups",
+			"Create a culture of sharing ideas!"
+		]
+	}]
+}, {
+	"name": "Feedback",
+	"topics": [{
+		"value": "Co-Workers",
+		"notes": [
+			"Solicit feedback from co-workers",
+			"Get each employee lists three to five co-workers they would like peer feedback from",
+			"Those co-workers then provide feedback for the individual in three categories, 1. Start, 2. Stop, and 3. Continue",
+			"Each box should focus on behaviors that match the title",
+			"Boxes aren't mandatory, can just leave a box blank",
+			"Do this every 3 / 6 months?"
+		]
+	},{
+		"value": "Individual",
+		"notes": [
+			"Set personal goals",
+			"Lodge this with your supervisor / person you trust",
+      "Create a review cycle to see how well you are doing",
+      "Intervene based on review if needed",
+      "Follow up on this the offical review"
+		]
+	},{
+		"value": "Self Assessment",
+		"notes": [
+			"State how you've met / failed to meet your peronal goals",
+			"Try not to be over confident",
+      "Try not to be dismissive of your success",
+      "Acknowledge the help you've received",
+      "This is useful when married to the feedback from co-workers and supervisor in the offical review"
+		]
+	}]
+}, {
+	"name": "You",
+	"topics": [{
+		"value": "Body",
+		"notes": [
+			"Excerise, even just a little walk counts",
+			"Sleep well",
+			"Eat well",
+			"See points on taking time",
+			"It's hard to think (and write code) if you aren't well"
+		]
+	}, {
+		"value": "Read",
+		"notes": [
+			"Books",
+			"Blog posts",
+			"Aggregator sites",
+			"API docs of your current language",
+			"Source code of projects you like",
+			"There should be an internal work library!"
+		]
+	}, {
+		"value": "Work Conditions",
+		"notes": [
+			"Find comfortable places",
+			"Avoid interruptions",
+			"Try and work on one hard problem at a time",
+			"Keep context switching down to a minimum",
+			"Try to get in the zone for a few hours per day",
+			"Respect others and trust each other"
+		]
+	}]
+}]

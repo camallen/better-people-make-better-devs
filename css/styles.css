@@ -1,8 +1,15 @@
-.question{
-    height:100px;
+.topic{
+    height:115px;
     vertical-align: middle;
     text-align: center;
     font-size: 1.5em;
-    padding-top: 35px;
+    /*padding-top: 35px;*/
     cursor: pointer;
+}
+
+.disabled {
+  color: #ffeb3b;
+  background-color: #029221;
+  opacity: 0.5;
+  cursor: not-allowed;
 }

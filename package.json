@@ -1,0 +1,23 @@
+{
+  "name": "javascript-jeopardy",
+  "version": "1.0.0",
+  "description": "javascript jeopardy ===================",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ws -p 3030 --spa index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mc706/javascript-jeopardy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mc706/javascript-jeopardy/issues"
+  },
+  "homepage": "https://github.com/mc706/javascript-jeopardy#readme",
+  "dependencies": {
+    "local-web-server": "^1.2.6"
+  }
+}
